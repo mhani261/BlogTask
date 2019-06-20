@@ -19,5 +19,5 @@
 
 # Architecture
  * Used mvc design.
- * Used Service Layer pattern to handle queries.
+ * Used Service Layer pattern.
 "# BlogTask" 
